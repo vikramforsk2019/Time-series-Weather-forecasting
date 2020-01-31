@@ -7,3 +7,5 @@ We will use data from Dec 2016 - April 2017 to check the model accuracy/validity
 2.remove nan value
 3.seperate the features and labels
 4.scaling
+# make the features_set input by in time sequences column 
+make group 50 column.
