@@ -10,3 +10,5 @@ We will use data from Dec 2016 - April 2017 to check the model accuracy/validity
 4.scaling
 # make the features_set input by in time sequences column 
 make group 50 column.
+# Model
+Conclusion A long short-term memory network (LSTM) is one of the most commonly used neural networks for time series analysis. The ability of LSTM to remember previous information makes it ideal for such tasks.
